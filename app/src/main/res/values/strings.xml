@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Namaj Somoy</string>
+    <string name="tab_schedule">সময়সূচী</string>
+    <string name="tab_custom_time">সময় পরিবর্তন</string>
+    <string name="tab_tracker">ট্র্যাকার</string>
+    <string name="tab_tasbih">তাসবীহ</string>
+    <string name="tab_settings">সেটিংস</string>
+    
+    <string name="current_prayer">বর্তমান ওয়াক্ত</string>
+    <string name="next_prayer">পরবর্তী ওয়াক্ত</string>
+    <string name="time_remaining">আর বাকি</string>
+    <string name="waqt_start">ওয়াক্ত শুরু</string>
+    <string name="jamat_time">জামাত</string>
+    <string name="edit_time">সময় পরিবর্তন</string>
+    <string name="reset_default">পূর্বাবস্থায় ফিরুন</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="cancel">বাতিল</string>
+</resources>

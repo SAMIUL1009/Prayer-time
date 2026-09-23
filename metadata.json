@@ -1,0 +1,6 @@
+{
+  "name": "Namaj Somoy",
+  "description": "নামাজের সময়সূচী ও কাস্টম সময় পরিবর্তন - Prayer times schedule with customizable timings",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
